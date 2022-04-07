@@ -1,0 +1,9 @@
+params:
+  app_name : "mlops-sagemaker"
+  execution_role_arn : 'arn:aws:iam::491305839012:role/mlops-sagemaker-role-001'
+  image_ecr_url : "491305839012.dkr.ecr.us-east-1.amazonaws.com/mlflow-pyfunc:1.24.0"
+  region : "us-east-1"
+  s3_bucket_name : "mlops-s3-01"
+  experiment_id : "0"
+  run_id : "741cd7468cd4411b9e041dd34c25567f"
+  model_name : "model"
