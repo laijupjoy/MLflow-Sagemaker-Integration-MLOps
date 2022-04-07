@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflow_aws/mlruns/0/1ee9847154ae40f2b2c813baada664f9/artifacts
+end_time: 1649239156468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1ee9847154ae40f2b2c813baada664f9
+run_uuid: 1ee9847154ae40f2b2c813baada664f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649239029361
+status: 3
+tags: []
+user_id: laiju
